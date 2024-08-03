@@ -5,4 +5,4 @@
 <img src="https://res.cloudinary.com/drdjty87p/image/upload/v1722668879/screencapture-localhost-3000-admin-default-2024-08-03-12_37_08_itfmne.png"/>
 
 <h1>OutPut Dark Mode: </h1><br/>
-<img src= "https://res.cloudinary.com/drdjty87p/image/upload/v1722668879/screencapture-localhost-3000-admin-default-2024-08-03-12_36_50_zpypqs.png" />
+<img src= "https://res.cloudinary.com/drdjty87p/image/upload/v1722669113/screencapture-localhost-3000-admin-default-2024-08-03-12_41_31_rtraj5.png" />
